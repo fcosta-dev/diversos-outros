@@ -1,2 +1,4 @@
 # Diversos Outros
- Repositorio com Diversos Codigos Versionados
+ Repositório com Diversos Códigos Versionados
+ 
+ Repositório com Intenção de Expor Diversos Códigos
